@@ -55,7 +55,7 @@ const Navbar = () => {
                     <Image
                      src="/logo.png" 
                      alt="Uniabuja Logo"
-                     width={220}
+                     width={180}
                      height={30}
                      className="object-contain"
                     />
