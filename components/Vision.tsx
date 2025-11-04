@@ -50,7 +50,7 @@ const Vision = () => {
                     data-aos="zoom-in" data-aos-delay="50"
                     className='text-3xl md:text-4xl font-bold text-navy-900 mt-4 mb-6 md:w-4/5'
                 >
-                    NRA Mission
+                    NRA Vision
                 </h2>
                 <p 
                     data-aos="zoom-in" data-aos-delay="50"
