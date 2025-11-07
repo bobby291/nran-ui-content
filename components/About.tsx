@@ -18,7 +18,7 @@ const About = () => {
             <div className="flex flex-col md:flex-row items bg-green-950 shadow-md rounded-lg overflow-hidden">
                 <div className="w-full md:w-1/2">
                     <Image
-                    src='/images/section3.jpg'
+                    src='/images/project-a.jpg'
                     alt="Our Goals"
                     width={400}
                     height={400}

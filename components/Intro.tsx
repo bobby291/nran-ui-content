@@ -33,7 +33,7 @@ const Intro = () => {
                 </div>
                 <div className="w-full md:w-1/2">
                 <Image
-                 src='/images/About.jpg'
+                 src='/images/project-h.jpg'
                  alt="Our Goals"
                  width={400}
                  height={400}

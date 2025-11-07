@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useEffect } from "react";
 import AOS from "aos"
 import "aos/dist/aos.css"
+import Link from "next/link";
 
 const Footer = () => {
 
@@ -28,7 +29,7 @@ const Footer = () => {
                     />
                 </div>
                 <div className="text-white">
-            <a href="#home" className='text-center mb-3 font-semibold'>Home</a> | <a href='/policy' className='text-center mb-3 font-semibold'>Phone</a>  | <a href="/contact" className='text-center mb-3 font-semibold'>Email</a>
+            <Link href="/" className='text-center mb-3 font-semibold'>Home</Link> | <Link href='tel: 08033307750' className='text-center mb-3 font-semibold'>Phone</Link>  | <Link href="mailto: nrambassadors@gmail.com" className='text-center mb-3 font-semibold'>Email</Link>
             </div>
             <div className="text-gray-800">
                 <p className='text-center mt-5 font-semibold'>Suite A103, Carter Plaza, Next to Oti Carpet, Ademola Adetokunbo Street, Wuse 2, Abuja Nigeria</p>

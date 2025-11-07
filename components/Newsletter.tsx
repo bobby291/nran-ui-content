@@ -1,3 +1,5 @@
+"use client"
+
 import { ArrowBigRight } from "lucide-react";
 
 const Newsletter = () => {
@@ -43,11 +45,14 @@ const Newsletter = () => {
                 >
                   <input
                     type="email"
-                    placeholder="e.g: nranigerai@gmail.com"
+                    placeholder="e.g: nrambassadors@gmail.com"
                     data-aos="zoom-in" data-aos-delay="50"
                     className="w-full sm:w-auto md:w-80 px-4 sm:px-6 py-3 sm:py-4 rounded-xl sm:rounded-l-xl sm:rounded-r-none focus:outline-none focus:ring-2 focus:ring-green-500 bg-white"
                   />
                   <button 
+                    onClick={() => {
+                      window.location.href = "mailto: nrambassadors@gmail.com";
+                    }}
                     data-aos="zoom-in" data-aos-delay="50"
                     className="w-full sm:w-auto cursor-pointer bg-amber-400 font-semibold text-green-800 px-6 sm:px-8 py-3 sm:py-4 rounded-xl sm:rounded-l-none sm:rounded-r-xl hover:bg-green-400 transition-colors flex items-center justify-center sm:justify-start gap-2"
                   >

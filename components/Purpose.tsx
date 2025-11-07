@@ -37,7 +37,7 @@ const Purpose = () => {
             </div>
             <div className="w-full md:w-1/2">
             <Image
-             src='/images/section4.jpg'
+             src='/images/project-m.jpg'
              alt="Our Goals"
              width={400}
              height={400}

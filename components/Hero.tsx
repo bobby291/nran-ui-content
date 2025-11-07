@@ -39,9 +39,10 @@ const Hero = () => {
                     <h1 
                     data-aos="fade-right" data-aos-delay="150"
                     className='font-roboto text-center justify-center items-center text-white text-2xl sm:text-5xl md:text-4xl lg:text-5xl md:font-extrabold max-w-5xl'>
-                    For The Refroms Continuity <span className="underline decoration-amber-500">
+                    For The Reforms Continuity <span className="underline decoration-amber-500">
                         <br /> Agenda</span> 
                     </h1>
+                    <p className="font-poppins font-light mt-2 text-amber-200 text-xl space-x-2 ">" Reforms for Renewal. Reforms for the Future "</p>
                     
 
                 </div>

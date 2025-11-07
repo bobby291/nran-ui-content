@@ -17,7 +17,7 @@ const Core = () => {
             <div className="flex flex-col md:flex-row items bg-green-950 shadow-md rounded-lg overflow-hidden">
                 <div className="w-full md:w-1/2">
                     <Image
-                    src='/images/section3.jpg'
+                    src='/images/project-i.jpg'
                     alt="Our Goals"
                     width={400}
                     height={400}
@@ -33,13 +33,12 @@ const Core = () => {
                     UniAbuja, CSD, Mass General form renewable energy collaboration
                     </h2> */}
                     <p className="text-white text-lg mb-4 font-poppins font-semibold">
-                    Patriotism and Service – Nigeria first, always.
-
-                    Transparency and Truth in Messaging – Facts over propaganda.
-                    Inclusivity and Empowerment – Every voice matters.
-                    Reform-mindedness and Progress – Change for the greater good.
-                    Accountability and Results – Promises backed by performance.
-                    Unity and Renewal – One nation, one reform vision
+                    Patriotism and Service Nigeria first, always.
+                    Transparency and Truth in Messaging Facts over propaganda.
+                    Inclusivity and Empowerment Every voice matters.
+                    Reform-mindedness and Progress Change for the greater good.
+                    Accountability and Results Promises backed by performance.
+                    Unity and Renewal One nation, one reform vision
                     </p>
                 </div>
             </div>

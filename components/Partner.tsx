@@ -26,7 +26,7 @@ const Partner = () => {
                     className='p-4'
                 >
                     <Image
-                 src='/images/About.jpg'
+                 src='/images/project-c.jpg'
                  alt="Our Goals"
                  width={400}
                  height={400}

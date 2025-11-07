@@ -59,7 +59,7 @@ const Features = () => {
                     className='p-4'
                 >
                     <Image
-                 src='/images/About.jpg'
+                 src='/images/project-d.jpg'
                  alt="Our Goals"
                  width={400}
                  height={400}
